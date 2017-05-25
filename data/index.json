@@ -1,0 +1,25 @@
+{
+  "url": "https://192.168.1.173:1234/wx/images/sy-head-banner.png",
+  "solidNuts": [
+    {
+      "src": "https://192.168.1.173:1234/wx/images/sy-sect-cont-good-10.png",
+      "name": "三只松鼠",
+      "price": "20.00"
+    },
+    {
+      "src": "https://192.168.1.173:1234/wx/images/sy-sect-cont-good-10.png",
+      "name": "三只松鼠",
+      "price": "20.00"
+    },
+    {
+      "src": "https://192.168.1.173:1234/wx/images/sy-sect-cont-good-10.png",
+      "name": "三只松鼠",
+      "price": "20.00"
+    },
+    {
+      "src": "https://192.168.1.173:1234/wx/images/sy-sect-cont-good-10.png",
+      "name": "三只松鼠",
+      "price": "20.00"
+    }
+  ]
+}
