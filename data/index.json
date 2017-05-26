@@ -1,25 +1,60 @@
 {
-  "url": "https://192.168.1.173:1234/wx/images/sy-head-banner.png",
-  "solidNuts": [
-    {
-      "src": "https://192.168.1.173:1234/wx/images/sy-sect-cont-good-10.png",
-      "name": "三只松鼠",
-      "price": "20.00"
-    },
-    {
-      "src": "https://192.168.1.173:1234/wx/images/sy-sect-cont-good-10.png",
-      "name": "三只松鼠",
-      "price": "20.00"
-    },
-    {
-      "src": "https://192.168.1.173:1234/wx/images/sy-sect-cont-good-10.png",
-      "name": "三只松鼠",
-      "price": "20.00"
-    },
-    {
-      "src": "https://192.168.1.173:1234/wx/images/sy-sect-cont-good-10.png",
-      "name": "三只松鼠",
-      "price": "20.00"
-    }
-  ]
+	"url": "https://chanelnumberfive.github.io/wx/images/sy-head-banner.png",
+	"solidNuts": [{
+		"src": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-10.png",
+		"name": "三只松鼠",
+		"price": "20.00"
+	}, {
+		"src": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-10.png",
+		"name": "三只松鼠",
+		"price": "20.00"
+	}, {
+		"src": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-10.png",
+		"name": "三只松鼠",
+		"price": "20.00"
+	}, {
+		"src": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-10.png",
+		"name": "三只松鼠",
+		"price": "20.00"
+	}],
+	"oilNuts": [{
+		"src": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-6.png",
+		"name": "鲁花花生油",
+		"price": "60.00"
+	}, {
+		"src": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-6.png",
+		"name": "鲁花花生油",
+		"price": "60.00"
+	}, {
+		"src": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-6.png",
+		"name": "鲁花花生油",
+		"price": "60.00"
+	}, {
+		"src": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-6.png",
+		"name": "鲁花花生油",
+		"price": "60.00"
+	}],
+	"liquidNuts": [{
+		"url": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-5.png",
+		"name": "养元六个核桃",
+		"price": "30.00"
+	}, {
+		"url": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-5.png",
+		"name": "养元六个核桃",
+		"price": "30.00"
+	}, {
+		"url": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-5.png",
+		"name": "养元六个核桃",
+		"price": "30.00"
+	}, {
+		"url": "https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-5.png",
+		"name": "养元六个核桃",
+		"price": "30.00"
+	}],
+	"brand":[
+		"https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-13.png",
+		"https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-13.png",
+		"https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-13.png",
+		"https://chanelnumberfive.github.io/wx/images/sy-sect-cont-good-13.png"
+	]
 }
